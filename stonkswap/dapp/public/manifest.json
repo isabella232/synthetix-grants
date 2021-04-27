@@ -1,0 +1,16 @@
+{
+  "name": "StonkSwap",
+  "short_name": "StonkS",
+  "icons": [
+    {
+      "src": "logo/Logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#1F69FF",
+  "background_color": "#F2F2F2",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}
